@@ -1,0 +1,480 @@
+[
+  {
+    "_id": "5e9d5774571774077c543668",
+    "remarks": [
+      {
+        "_id": "5ea01bf89b2ca7514ea520cb",
+        "stage": "CSC_REVIEW",
+        "createdBy": "5e9ee3e88afed4308971ddbe",
+        "remark": "appears to be eligible"
+      }
+    ],
+    "cycle": "5e88112a5aa7bb16f755de11",
+    "user": "5e9d55ca571774077c54361a",
+    "form": "5e9d5774571774077c543666",
+    "formType": "CawachForm",
+    "stage": "CAWACH_FUNDING",
+    "createdBy": "5e9d55ca571774077c54361a",
+    "updatedBy": "5e87252e34ac420fc84f36dd",
+    "createdAt": "2020-04-20T08:04:04.566Z",
+    "updatedAt": "2020-06-14T08:24:24.643Z",
+    "__v": 27,
+    "thrustArea": "5e91939673d4ff1fcff60f72",
+    "applicantStatus": "Funding Approved",
+    "applicantStatusType": "APPR",
+    "applicationId": "1731",
+    "serviceCenter": "5e91938e5a506f1fb34b05c8",
+    "status": "APPROVED",
+    "review": "5ea01c0f9b2ca7514ea520cd",
+    "reviewType": "CawachReview",
+    "documents": [
+      {
+        "_id": "5ea47c95a65e2672c115805a",
+        "document": "5ea47c95a65e2672c1158059",
+        "documentType": "5ea3ea1947e49664fd4e3572",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-04-25T18:08:21.680Z"
+      },
+      {
+        "_id": "5ea47cfea65e2672c1158066",
+        "document": "5ea47cfea65e2672c1158065",
+        "documentType": "5ea3ea1947e49664fd4e3575",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-04-25T18:10:06.645Z"
+      },
+      {
+        "_id": "5ea5193ca65e2672c11584bd",
+        "document": "5ea5193ca65e2672c11584bc",
+        "documentType": "5ea3ea1947e49664fd4e3573",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-04-26T05:16:44.115Z"
+      },
+      {
+        "_id": "5ea51953a65e2672c11584c5",
+        "document": "5ea519a8a65e2672c11584d5",
+        "documentType": "5ea3ea1947e49664fd4e3574",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-04-26T05:18:32.334Z"
+      },
+      {
+        "_id": "5eba60996a0ef9156e918515",
+        "document": "5eba76c56a0ef9156e918675",
+        "documentType": "5eb932743ab12a154333c545",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T10:13:25.544Z"
+      },
+      {
+        "_id": "5eba7bb76a0ef9156e9186a1",
+        "document": "5eba7bb76a0ef9156e9186a0",
+        "documentType": "5eb932743ab12a154333c548",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T10:34:31.826Z"
+      },
+      {
+        "_id": "5eba7bc86a0ef9156e9186a4",
+        "document": "5eba7bc86a0ef9156e9186a3",
+        "documentType": "5eb932743ab12a154333c549",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T10:34:48.570Z"
+      },
+      {
+        "_id": "5eba7be76a0ef9156e9186a7",
+        "document": "5eba7be76a0ef9156e9186a6",
+        "documentType": "5eb932743ab12a154333c54a",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T10:35:19.077Z"
+      },
+      {
+        "_id": "5eba7c1c6a0ef9156e9186aa",
+        "document": "5eba7c1c6a0ef9156e9186a9",
+        "documentType": "5eb932743ab12a154333c54b",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T10:36:12.912Z"
+      },
+      {
+        "_id": "5eba7d856a0ef9156e9186be",
+        "document": "5eba7d856a0ef9156e9186bd",
+        "documentType": "5eb932743ab12a154333c54c",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T10:42:13.796Z"
+      },
+      {
+        "_id": "5eba81246a0ef9156e9186cd",
+        "document": "5eba81246a0ef9156e9186cc",
+        "documentType": "5eb932743ab12a154333c54d",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T10:57:40.613Z"
+      },
+      {
+        "_id": "5eba8f46cc16c330cf4961c9",
+        "document": "5eba8f46cc16c330cf4961c8",
+        "documentType": "5eb932743ab12a154333c558",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T11:57:58.205Z"
+      },
+      {
+        "_id": "5eba8f56cc16c330cf4961cc",
+        "document": "5eba8f56cc16c330cf4961cb",
+        "documentType": "5eb932743ab12a154333c547",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T11:58:14.997Z"
+      },
+      {
+        "_id": "5eba8f68cc16c330cf4961cf",
+        "document": "5eba8f68cc16c330cf4961ce",
+        "documentType": "5eb932743ab12a154333c546",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T11:58:32.771Z"
+      },
+      {
+        "_id": "5eba922dcc16c330cf4961f1",
+        "document": "5eba922dcc16c330cf4961f0",
+        "documentType": "5eb932743ab12a154333c554",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T12:10:21.469Z"
+      },
+      {
+        "_id": "5ebaa00ccc16c330cf496267",
+        "document": "5ebaa00ccc16c330cf496266",
+        "documentType": "5eb932743ab12a154333c54e",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T13:09:32.849Z"
+      },
+      {
+        "_id": "5ebaa022cc16c330cf49626a",
+        "document": "5ebaa022cc16c330cf496269",
+        "documentType": "5eb932743ab12a154333c553",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-12T13:09:54.782Z"
+      },
+      {
+        "_id": "5ebe9bc52f816b51d56b4357",
+        "document": "5ebe9bc52f816b51d56b4356",
+        "documentType": "5eb932743ab12a154333c54f",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-15T13:40:21.683Z"
+      },
+      {
+        "_id": "5ebe9c9b2f816b51d56b435b",
+        "document": "5ebe9c9b2f816b51d56b435a",
+        "documentType": "5eb932743ab12a154333c550",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-15T13:43:55.534Z"
+      },
+      {
+        "_id": "5ebe9cdd2f816b51d56b4361",
+        "document": "5ebe9cdd2f816b51d56b4360",
+        "documentType": "5eb932743ab12a154333c551",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-15T13:45:01.426Z"
+      },
+      {
+        "_id": "5ebea1452f816b51d56b4373",
+        "document": "5ebea1452f816b51d56b4372",
+        "documentType": "5eb932743ab12a154333c555",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-15T14:03:49.857Z"
+      },
+      {
+        "_id": "5ebea58e2f816b51d56b4382",
+        "document": "5ebea58e2f816b51d56b4381",
+        "documentType": "5eb932743ab12a154333c55a",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-15T14:22:06.925Z"
+      },
+      {
+        "_id": "5ebf95af2f816b51d56b47e3",
+        "document": "5ebf95af2f816b51d56b47e2",
+        "documentType": "5eb932743ab12a154333c556",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-16T07:26:39.051Z"
+      },
+      {
+        "_id": "5ebfb133bf5c5977017011ab",
+        "document": "5ebfb133bf5c5977017011aa",
+        "documentType": "5eb932743ab12a154333c55b",
+        "updatedBy": "5e9d55ca571774077c54361a",
+        "updatedAt": "2020-05-16T09:24:03.626Z"
+      }
+    ],
+    "statusReason": [],
+    "focusArea": "5e91939673d4ff1fcff60f72",
+    "reviewDocumentApplicantRemarks": "Even though the company was registered in 2015, operation started only from April 2020 . In 2019 we bought some equipment like Filter media curing Oven and Impregnator , to develop higher quality filters and do anti-microbial coating on filter media . But no sales or no activity were there. Unfortunately  due to lack of sufficient electric supply  from Electricity board and since they insisted for Power Transformer the project was delayed till now . During the COVID crisis we decided to do the mask project in Aerofil Filters India Pvt Ltd and  did a clean room for production , Electrical works and got required electricity permission for the production of Mask. We decided to install a power transformer immediately to activate the Oven . We are developing Anti-microbial coating on the mask filter and this is possible by activating the oven. This will give us added value for the product.",
+    "affiliatedCenter": "5e91938e5a506f1fb34b05c8",
+    "nonRecurringAmount": 7000000,
+    "recommendedAmount": 7000000,
+    "recurringAmount": 0,
+    "requestedAmount": 15000000,
+    "level2SatelliteCenters": [
+      "5e91938e5a506f1fb34b05c6",
+      "5e91938e5a506f1fb34b05ce"
+    ],
+    "formData": {
+      "_id": "5e9d5774571774077c543666",
+      "founders": [
+        {
+          "_id": "5e9d8718571774077c544644",
+          "name": "SANTHOSH KUMAR",
+          "gender": "M",
+          "category": "GEN",
+          "qualification": "GRADUATE",
+          "role": "MANAGING DIRECTOR",
+          "experience": "20 YEARS EXPERIENCE IN AIR FILTRATION",
+          "dob": "1973-03-15",
+          "phone": "8606198157",
+          "email": "santhoshpd@hotmail.com",
+          "association": "FULL_TIME",
+          "shareholdingPercentage": 90
+        }
+      ],
+      "directors": [
+        {
+          "_id": "5e9d8718571774077c544643",
+          "name": "PRASOBH V",
+          "dinNumber": "03559624"
+        }
+      ],
+      "employees": [],
+      "createdBy": "5e9d55ca571774077c54361a",
+      "updatedBy": "5e9d55ca571774077c54361a",
+      "createdAt": "2020-04-20T08:04:04.563Z",
+      "updatedAt": "2020-04-20T11:27:20.080Z",
+      "__v": 5,
+      "company": {
+        "registeredAddress": {
+          "streetLine1": "HOUSE NO 34 CHOICE VILLAGE",
+          "streetLine2": "NADAMA EAST TRIPUNITHURA",
+          "city": "ERNAKULAM",
+          "state": "KL",
+          "postalCode": "682301"
+        },
+        "currentAddress": {
+          "streetLine1": "EP/II/433  CHITTAKODU MARANADU PO",
+          "streetLine2": "EZHUKONE",
+          "city": "KOLLAM",
+          "state": "KL",
+          "postalCode": "691505"
+        },
+        "name": "AEROFIL FILTERS INDIA PVT LTD",
+        "registrationNumber": "U51900KL2015PTC038188",
+        "incorporationDate": "2015-03-23",
+        "phone": "8606198157",
+        "email": "santhoshpd@hotmail.com",
+        "associatedWithIncubator": false,
+        "dpiitRegistered": false,
+        "associatedIncubator": "",
+        "cawachUndertaking": "5e9d5ba1571774077c54370b"
+      },
+      "finance": {
+        "bootstrapped": true,
+        "bootstrappedAmount": "50 LAKHS",
+        "externalFund": false,
+        "turnoverLastTwoYear": false,
+        "turnoverYear1": "",
+        "turnoverYear2": "",
+        "otherCovidFunding": false,
+        "otherCovidFundingAgency": "",
+        "otherCovidFundingPurpose": "",
+        "otherCovidFundingAmount": 0,
+        "otherCovidFundingStatus": "",
+        "fundAmount": 0,
+        "fundingAgency": "",
+        "requiredFunding": 19000000,
+        "covidFund": false,
+        "covidFundingAmount": 0,
+        "covidFundingAgency": "",
+        "milestones": "5e9d8718571774077c54463d",
+        "proposedUsage": "5e9d8718571774077c54463e"
+      },
+      "product": {
+        "supportNeeded": [
+          "INFRASTRUCTURE",
+          "ANY_OTHER_SPECIFIC_REQUIREMENTS",
+          "FUNDING"
+        ],
+        "productCategory": "VENTILATORS_AND_PPE",
+        "description": "N95 mask ",
+        "costPrice": 75,
+        "sellingPrice": 100,
+        "productStage": "READY_FOR_DEPLOYMENT",
+        "deployRequiredActivities": "",
+        "filedPatent": false,
+        "patentNo": "",
+        "patentType": "",
+        "notFiledReason": "PATENT_NOT_APPLICABLE",
+        "validated": true,
+        "validatedInstitutions": "SOUTH INDIA TEXTILE RESEARCH ASSOCIATION ( SITRA)",
+        "regApproval": false,
+        "regApprovalDetails": "We have done pre-qualification test at SITRA coimbatore and MIDAS coimbatore  and the results exceeds the requirements for N95 /FFP2 . But BIS mandates that the manufacturer of Surgical respirators / filtering face piece respirators should have an in-house test facility since there no BIS certified third party testing labs in India .   ",
+        "deployed": false,
+        "buyersList": "Kerala Medical Supply Corporation Limited\nTamil Nadu Medical Supply Corporation Limited\nGujarat Medical Supply Corporation Limited",
+        "capacityPerDay": "",
+        "deployTimeline": "Within in 60 days we can increase production to 3 times after installing automatic machine",
+        "supplyDetails": "JJ Nonwoven Alwaye Ernakulam\nAir Filter Systems, Chennai",
+        "supportRequirements": "Purchase of Automatic production lines machines and Testing Equipment.  ",
+        "donationInterested": false,
+        "remarks": "Depending on situation we can allocate few number for donation",
+        "explanatoryPicture": "5e9d76b6571774077c543dd9"
+      },
+      "teamSize": 15,
+      "companyRegCertificate": "5e9d8718571774077c54463f",
+      "gstRegCertificate": "5e9d8718571774077c544640",
+      "promoterKycDocs": "5e9d8718571774077c544641",
+      "shareholdingPattern": "5e9d8718571774077c544642"
+    },
+    "reviewData": {
+      "_id": "5ea01c0f9b2ca7514ea520cd",
+      "cscScoring": {
+        "reviewerEvaluation": [
+          {
+            "_id": "5e9ee4138a876930ab397c1e",
+            "email": "jayaraj@htic.iitm.ac.in",
+            "firstName": "Jayaraj",
+            "userAccount": "5e9ee4138a876930ab397c1b",
+            "createdAt": "2020-04-21T12:16:19.887Z",
+            "createdBy": "5e87252e34ac420fc84f36dd",
+            "updatedAt": "2020-04-21T12:16:19.887Z",
+            "updatedBy": "5e87252e34ac420fc84f36dd",
+            "fieldOfExpertise": [
+              {
+                "_id": "5e9ee4138a876930ab397c1f",
+                "value": "5e9725a0e71523b2051f1773",
+                "label": "Ventilator"
+              },
+              {
+                "_id": "5e9ee4138a876930ab397c20",
+                "value": "5e9725a0e71523b2051f1776",
+                "label": "Diagnostics"
+              }
+            ],
+            "gender": "M",
+            "phone": "9884027817",
+            "organization": "HTIC",
+            "salutation": "Dr",
+            "city": "Chennai",
+            "state": "TN",
+            "designation": "CTO",
+            "referredBy": "IITM HTIC",
+            "__v": 0
+          },
+          {
+            "_id": "5ea00c43e80303332bd37fac",
+            "email": "p.senthil.nathan@gmail.com",
+            "firstName": "Senthil",
+            "userAccount": "5ea00c43e80303332bd37fa9",
+            "createdAt": "2020-04-22T09:20:03.626Z",
+            "createdBy": "5e9ee3e88afed4308971ddbe",
+            "updatedAt": "2020-04-22T09:20:03.626Z",
+            "updatedBy": "5e9ee3e88afed4308971ddbe",
+            "fieldOfExpertise": [
+              {
+                "_id": "5ea00c43e80303332bd37faf",
+                "value": "5e9725a0e71523b2051f1777",
+                "label": "Informatics"
+              }
+            ],
+            "gender": "M",
+            "lastName": "Nathan",
+            "phone": "9790932420",
+            "organization": "findmeashoe.com",
+            "salutation": "Mr",
+            "city": "Chennai",
+            "state": "TN",
+            "designation": "CEO",
+            "referredBy": "HTIC",
+            "__v": 0
+          },
+          {
+            "_id": "5ea00cdce80303332bd37fb6",
+            "email": "sajit.kumar@astrazeneca.com",
+            "firstName": "Sajith",
+            "userAccount": "5ea00cdce80303332bd37fb3",
+            "createdAt": "2020-04-22T09:22:36.525Z",
+            "createdBy": "5e9ee3e88afed4308971ddbe",
+            "updatedAt": "2020-04-22T09:22:36.525Z",
+            "updatedBy": "5e9ee3e88afed4308971ddbe",
+            "fieldOfExpertise": [
+              {
+                "_id": "5ea00cdce80303332bd37fb9",
+                "value": "5e9725a0e71523b2051f1779",
+                "label": "Medical Equipment"
+              }
+            ],
+            "gender": "M",
+            "lastName": "Kumar",
+            "phone": "9790932420",
+            "organization": "AstraZeneca India Private Limited",
+            "salutation": "Mr",
+            "city": "chennai",
+            "state": "TN",
+            "designation": "director",
+            "referredBy": "HTIC",
+            "__v": 0
+          }
+        ],
+        "score": 71,
+        "bonusScore": 0,
+        "totalScore": 71,
+        "remarks": "Recommended"
+      },
+      "createdBy": "5e9ee3e88afed4308971ddbe",
+      "updatedBy": "5e87252e34ac420fc84f36dd",
+      "createdAt": "2020-04-22T10:27:27.295Z",
+      "updatedAt": "2020-06-11T16:09:43.285Z",
+      "__v": 2,
+      "cmcShortlist": {
+        "recommendation": true,
+        "remarks": null,
+        "updatedBy": "5e8ad24244fd9c585a18e8c1",
+        "updatedAt": "2020-05-11T08:23:40.416Z"
+      },
+      "cmcFinalReview": {
+        "recommendation": true,
+        "remarks": "",
+        "updatedBy": "5e87252e34ac420fc84f36dd",
+        "updatedAt": "2020-06-11T16:09:43.281Z",
+        "evaluationScores": [
+          {
+            "_id": "5ee25747c1d80b07b85a686c",
+            "criteriaId": "5ee2571b830c99078fc2d407",
+            "score": 9
+          },
+          {
+            "_id": "5ee25747c1d80b07b85a686d",
+            "criteriaId": "5ee2571b830c99078fc2d408",
+            "score": 13
+          },
+          {
+            "_id": "5ee25747c1d80b07b85a686e",
+            "criteriaId": "5ee2571b830c99078fc2d409",
+            "score": 8
+          },
+          {
+            "_id": "5ee25747c1d80b07b85a686f",
+            "criteriaId": "5ee2571b830c99078fc2d40a",
+            "score": 16
+          },
+          {
+            "_id": "5ee25747c1d80b07b85a6870",
+            "criteriaId": "5ee2571b830c99078fc2d40b",
+            "score": 16
+          },
+          {
+            "_id": "5ee25747c1d80b07b85a6871",
+            "criteriaId": "5ee2571b830c99078fc2d40c",
+            "score": 8
+          },
+          {
+            "_id": "5ee25747c1d80b07b85a6872",
+            "criteriaId": "5ee2571b830c99078fc2d40d",
+            "score": 11
+          }
+        ],
+        "reviewerRemarks": "1. More breathable design, experience in filters\n2. Better product",
+        "technicalFeatures": "Progressive density Meltblown filter media ensures better breathability",
+        "totalScore": 81,
+        "unitCost": "Collapsible N95 Face Mask - Cost Rs 48"
+      }
+    }
+  }
+]
