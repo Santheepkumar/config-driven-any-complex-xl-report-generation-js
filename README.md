@@ -7,5 +7,5 @@
     yarn export
 
 
-In will export the using data.json
+It will export the using data.json
 
